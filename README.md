@@ -8,7 +8,7 @@ eric-figueira/eric-figueira is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Programming Languages and Tools 🚀
+## Programming Languages and Tools 
 
 <div style="display: inline_block"> 
   
