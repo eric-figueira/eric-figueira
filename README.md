@@ -20,6 +20,7 @@ You can click the Preview link to take a look at your changes.
   <img align="center" alt="Node-icon" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
   <img align="center" alt="Java-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
   <img align="center" alt="CSharp-icon" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Python-icon" width="40" src="https://img.icons8.com/color/344/python--v1.png">
  
 </div>
 
