@@ -10,22 +10,28 @@ You can click the Preview link to take a look at your changes.
 
 ## Programming Languages and Tools 
 
-<div style="display: inline_block"> 
-  
-  <img align="center" alt="VisualStudio-icon" width="40" src="https://img.icons8.com/fluency/50/000000/visual-studio-2019.png">
-  <img align="center" alt="VisualStudioCode-icon" width="40" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png">
-  <img align="center" alt="HTML-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Js-icon" width="40" src="https://img.icons8.com/color/240/000000/javascript.png">
-  <img align="center" alt="Node-icon" width="40" src="https://img.icons8.com/color/240/000000/nodejs.png">
-  <img align="center" alt="Java-icon" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg">
-  <img align="center" alt="CSharp-icon" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Python-icon" width="40" src="https://img.icons8.com/color/344/python--v1.png">
- 
-</div>
+### Tecnologies and Tools
+<p>
+  <img alt="html5-icon" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+  <img alt="css-icon" src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+  <img alt="git-icon" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="Github-icon" src="http://img.shields.io/badge/-Github-000000?style=flat-square&logo=github&logoColor=FFFFFF"> 
+  <img alt="vscode-icon" src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual%20studio%20code&logoColor=white">
+  <img alt="sqlserver-icon" src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white">
+</p>
+
+### Currently learning
+
+<p> 
+  <img alt="javascript-icon" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
+  <img alt="java-icon" src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white">
+  <img alt="C++-icon" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img alt="Nodejs-icon" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Arduino-icon" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
+</p>
 
 ##
+---
+<!--<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-figueira" /></p>-->
 
-| [📈 Github Profile Stats](https://github.com/eric-figueira/github-readme-stats#github-stats-card) | [📓 Github Languages](https://github.com/eric-figueira/github-readme-stats#top-languages-card) |
-| :---: | :---: |
-| <img height="180" src="https://github-readme-stats.vercel.app/api?username=eric-figueira&show_icons=true&theme=highcontrast" /> | <img height="160" width="480"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-figueira&theme=highcontrast&layout=compact" /> |
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-figueira&show_icons=true&layout=compact&locale=en&theme=white" alt="eric-figueira" />  
