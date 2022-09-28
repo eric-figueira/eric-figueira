@@ -1,6 +1,5 @@
 ### 👋 Hi, I’m Eric Carvalho Figueira 
 - 👀 I’m interested in technology and games
-- 🌱 I’m currently learning JavaScript and Java
 - 📫 How to reach me: eric.figueira.07@gmail.com
 
 <!---
