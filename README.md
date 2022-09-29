@@ -1,6 +1,13 @@
 ### 👋 Hi, I’m Eric Carvalho Figueira 
 - 👀 I’m interested in technology and games
-- 📫 How to reach me: eric.figueira.07@gmail.com
+
+
+[<img alt="GitHub followers" src="https://img.shields.io/github/followers/eric-figueira?label=Follow&style=social" height="22" title="Follow me"/>][github]
+[<img alt="Send an email to Eric" src="https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white" height="22" title="eric.figueira.07@gmail.com" />][email]
+
+[github]: https://github.com/eric-figueira
+[email]: mailto:eric.figueira.07@gmail.com
+
 
 <!---
 eric-figueira/eric-figueira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
