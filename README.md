@@ -1,5 +1,6 @@
 ### 👋 Hi, I’m Eric Carvalho Figueira 
 - 👀 I’m interested in technology and games
+- 💻 I'm looking to learn more about programming and software development
 
 
 [<img alt="GitHub followers" src="https://img.shields.io/github/followers/eric-figueira?label=Follow&style=social" height="22" title="Follow me"/>][github]
