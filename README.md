@@ -33,13 +33,8 @@ You can click the Preview link to take a look at your changes.
 <p> 
   <img alt="javascript-icon" src="https://img.shields.io/badge/-JavaScript-eed718?style=flat-square&logo=javascript&logoColor=ffffff">
   <img alt="java-icon" src="http://img.shields.io/badge/-Java-F89820?style=flat-square&logo=java&logoColor=white">
-  <img alt="C++-icon" src="https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white">
   <img alt="Nodejs-icon" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Arduino-icon" src="https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white">
 </p>
 
-##
----
-<!--<p align="center"><img alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-figueira" /></p>-->
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=eric-figueira&show_icons=true&layout=compact&locale=en&theme=white" alt="eric-figueira" />  
+##  
