@@ -3,8 +3,6 @@
   👋 Hi, I’m Eric Carvalho Figueira 
 </h3>
 
-</br>
-
 ### 🚀 About me:
 - IT Student at Technical High School of Campinas - UNICAMP
 - Always amazed by the vast world of programming
