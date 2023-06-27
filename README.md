@@ -3,6 +3,7 @@
   👋 Hi, I’m Eric Carvalho Figueira 
 </h3>
 
+
 ### 🚀 About me:
 - IT Student at Technical High School of Campinas - UNICAMP
 - Always amazed by the vast world of programming
@@ -12,8 +13,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eric.figueira.07@gmail.com)](mailto:eric.figueira.07@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-carvalho-figueira/)](https://www.linkedin.com/in/eric-carvalho-figueira/) 
 
-
-</br>
 
 ### 💻 Technical Skills
 
