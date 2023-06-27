@@ -3,14 +3,17 @@
   👋 Hi, I’m Eric Carvalho Figueira 
 </h3>
 
+</br>
+
+### 🚀 About me:
+- IT Student at Technical High School of Campinas - UNICAMP
+- Always amazed by the vast world of programming
+- Exploring and learning new things
 
 ### 📫 Contact me:
-<a href="" target="blank">
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="eric-figueira-email" />
-</a>
-<a href="" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="eric-figueira-linkedin"/>
-</a>
+[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:eric.figueira.07@gmail.com)](mailto:eric.figueira.07@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/eric-carvalho-figueira/)](https://www.linkedin.com/in/eric-carvalho-figueira/) 
+
 
 </br>
 
@@ -65,6 +68,7 @@
 <p> 
   <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="tailwind"/>
   <img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="next"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="mongodb"/>
 </p>
 
 </br>
