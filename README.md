@@ -72,6 +72,3 @@
 </p>
 
 </br>
-
-| <a href="https://github.com/eric-figueira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=eric-figueira&show_icons=true&include_all_commits=true&theme=shadow_blue&hide_border=true" alt="Eric's github stats" /></a> | <a href="https://github.com/eric-figueira/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eric-figueira&layout=compact&theme=shadow_blue&hide_border=true" /></a> |
-| ------------- | ------------- |
